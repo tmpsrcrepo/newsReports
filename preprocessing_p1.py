@@ -210,7 +210,7 @@ dict_Tuples, dict_TF = readListFiles(r'Output/')
 
 def searchKSentence(file_,kwd,k):
     index=0
-    dict_sentences={}
+    dict_sentences=defaultdict(str)
     sent_kwd = []
     #find sentences containing keywords
     for line in file_:
