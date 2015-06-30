@@ -1,0 +1,14 @@
+4 : Number of student deaths this academic year . 
+221 : Number of students , as of publication , who have signed a petition supporting the implementation of gender-neutral bathrooms . 
+27 : Number of pages in " Towards a <ORGANIZATION>Better University</ORGANIZATION> , " a proposal by the <ORGANIZATION>Black Student Alliance</ORGANIZATION> . 
+30 : Number of groups listed as supporting the <ORGANIZATION>BSA</ORGANIZATION> 's proposal . 
+700,000 : Number of dollars in the highest salary the <ORGANIZATION>University</ORGANIZATION> pays , which is to <PERSON>Richard Shannon</PERSON> , executive vice president for <ORGANIZATION>Health Affairs</ORGANIZATION> . 
+1 : Number of members of the <ORGANIZATION>Board of Visitors</ORGANIZATION> to resign this year . 
+1 : Estimated number of years until the <LOCATION>Rotunda</LOCATION> construction is completed . 
+50 million : Number of dollars the <LOCATION>Rotunda</LOCATION> construction will cost . 
+61 : Number of people arrested at the <ORGANIZATION>Foxfield Races</ORGANIZATION> in <DATE>2012</DATE> . 
+7 : Number of people arrested at the <ORGANIZATION>Foxfield Races</ORGANIZATION> this year . 
+2 : Number of days left to fill out the campus climate survey on sexual assault . 
+5 : Number of months since Rolling Stone published the now-retracted article " A Rape on Campus : A Brutal Assault and <ORGANIZATION>Struggle for Justice</ORGANIZATION> at <ORGANIZATION>UVA</ORGANIZATION> . " 
+0 : Number of people at Rolling Stone magazine who were fired for the publication of the article . 
+4 : Number of months until the 2015-16 academic year begins . 

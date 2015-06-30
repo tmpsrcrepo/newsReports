@@ -1,0 +1,19 @@
+Even as some American cities ' saw forecasts turn into reality as their crime rates increased last year , the crime rate in the City of <LOCATION>Charlottesville</LOCATION> and at <ORGANIZATION>the University of Virginia</ORGANIZATION> decreased overall by <PERCENT>12 percent</PERCENT> . 
+City of <LOCATION>Charlottesville</LOCATION> spokesperson <PERSON>Ric Barrick</PERSON> said violent crime in the city was down <PERCENT>18 percent</PERCENT> in <DATE>2007</DATE> , while property crime was down <PERCENT>11 percent</PERCENT> . 
+Of all violent crimes committed in <LOCATION>Charlottesville</LOCATION> , <ORGANIZATION>Barrick</ORGANIZATION> said instances of rape saw the most substantial decrease , with a 33-percent drop last year . 
+Another sizeable decrease was in reports of aggravated assault , down <PERCENT>30 percent</PERCENT> . 
+Barrick added that his office is pleased with the results for two reasons : In <DATE>2006</DATE> , unlike last year , <LOCATION>Charlottesville</LOCATION> 's crime statistics rose , and the national statistical trend forecasted a further rise in crime for <DATE>2007</DATE> . 
+These improved and encouraging statistics , <ORGANIZATION>Barrick</ORGANIZATION> said , can be attributed to more officers patrolling <LOCATION>Charlottesville</LOCATION> , better police and communications technology and " a department-wide community policing policy " that encourages " officers to be a part of a community and to communicate with those communities . " 
+One thing the <ORGANIZATION>Charlottesville Police Department</ORGANIZATION> added recently , according to <ORGANIZATION>Barrick</ORGANIZATION> , was a region-wide " gang awareness prevention " program . 
+" We 're getting in the community and educating the public about gang activity , " <ORGANIZATION>Barrick</ORGANIZATION> said , noting that this education is essential to lowering the number of crimes committed in <LOCATION>Charlottesville</LOCATION> . 
+The city , however , was not the only community to see crime levels fall in <DATE>2007</DATE> . 
+<ORGANIZATION>University Police Lieut. Melissa Fielding</ORGANIZATION> also said there was less crime on Grounds than in the previous year . 
+Like <ORGANIZATION>Barrick</ORGANIZATION> , Fielding attributed the lower crime rate to an increase in law enforcement patrol . 
+" Students will notice over the last couple of years an increased <ORGANIZATION>University</ORGANIZATION> police presence near Rugby , " Fielding said . 
+Fielding added that the <ORGANIZATION>University Police Department</ORGANIZATION> constantly analyzes overall crime statistics and reports for both the <ORGANIZATION>University</ORGANIZATION> and city to better gauge where and when police should be deployed . 
+Looking ahead , both <ORGANIZATION>Barrick</ORGANIZATION> and Fielding said their respective offices plan to formulate new ways of combating crime in the community . 
+Fielding said <ORGANIZATION>University Police</ORGANIZATION> will continue to look at statistics and reporting trends and keep a well-trained police department , while <ORGANIZATION>Barrick</ORGANIZATION> emphasized the community 's " responsibility to be responsible . " 
+At <ORGANIZATION>the University</ORGANIZATION> , Fielding said this responsibility -- especially in the case of property crimes -- extends to the student body . 
+She said students must make an effort to minimize theft opportunities if crime levels are to continue declining . 
+Compared to escalating crime nationwide , <ORGANIZATION>Barrick</ORGANIZATION> said , " We 're happy to be going against the national statistic trend . " 
+( C ) <DATE>2008</DATE> Cavalier Daily via U-WIRE 

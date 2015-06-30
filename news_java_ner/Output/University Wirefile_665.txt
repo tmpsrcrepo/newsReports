@@ -1,0 +1,27 @@
+<PERSON>Jenna Troung</PERSON> | The Cavalier Daily The Commonwealth is looking for new suppliers of drugs required for lethal injections . 
+Gov. <PERSON>Terry McAuliffe</PERSON> announced <DATE>Tuesday</DATE> the current supply of drugs used by the <ORGANIZATION>Commonwealth</ORGANIZATION> for lethal injections will expire in <DATE>Sept. 2015</DATE> . 
+<LOCATION>Virginia</LOCATION> currently uses a three-drug protocol which involves an anesthetic , the paralytic agent Pavulon and potassium chloride , which stops the heart . 
+<PERSON>McAuliffe</PERSON> did not specify which of the three drugs will expire first , but the <ORGANIZATION>Commonwealth</ORGANIZATION> is in the process of finding alternative methods before next <DATE>fall</DATE> . 
+A shortage of drugs required for lethal injection is becoming increasingly common in the States as European drug manufacturers increasingly prohibit exporting drugs for capital punishment . 
+Domestic drug manufacturers are growing similarly reluctant to sell their products for executions . 
+The <ORGANIZATION>Commonwealth</ORGANIZATION> passed a bill in <DATE>February</DATE> which allows the state to use the drug Midazolam as an alternative to one of the two most common anesthetics - pentobarbital and thiopental sodium - currently used in lethal injections . 
+Midazolam will act only as a substitute if neither pentobarbital nor thiopental sodium is available . 
+Other states have instituted similar bills authorizing Midazolam . 
+There is dissent , however , over the drug 's effectiveness as a viable substitute . 
+Midazolam helped make up the two-drug cocktail used in the 24-minute botched execution of an <LOCATION>Ohio</LOCATION> inmate in <DATE>Jan. 2014</DATE> , prompting the subject 's family to file a suit against the drug manufacturer . 
+One of the issues facing <LOCATION>Virginia</LOCATION> in running out of capital punishment drugs is the possibility that execution orders will bottleneck . 
+Because Commonwealth law currently states an inmate must be granted death by manner of their choice - either by the lethal injection or the electric chair - if an inmate selects lethal injection and there is a shortage or required drugs , the inmate can not be executed by electrocution . 
+Legislation which would have allowed the electric chair to be used as a substitute was proposed in <DATE>2014</DATE> but was eventually shot down . 
+In order to comply with the inmate 's chosen method of execution the state has looked toward legislation to incentivize pharmaceutical companies to sell the drugs to the prison system . 
+One such bill would hide both the names of the drug manufacture when the sale of the drugs is disclosed . 
+A similar bill proposed last month would allow the state to employ individual pharmacists to synthesize the drugs , hiding the pharmacists ' identities . 
+Neither of the two bills has passed . 
+The argument behind the proposed bills is that in keeping the names of manufacturers secret , manufacturers will not receive negative publicity and will be more willing to sell the lethal drugs . 
+<PERSON>Frank Knaack</PERSON> , the <ORGANIZATION>American Civil Liberties Union Virginia</ORGANIZATION> director of policy and communications , said this reasoning is unfounded . 
+He said the <ORGANIZATION>American Bar Association</ORGANIZATION> published a report last month showing no evidence of bias or harassment against manufacturers of drugs used in capital punishment . 
+Moreover , <PERSON>Knaack</PERSON> said the <ORGANIZATION>ACLU</ORGANIZATION> believes announcing the shortage is a way for the state government to push its legislative agenda and decrease the transparency of the process of capital punishment . 
+" As there is no one schedule for execution this year , we see this as an attempt [ by the <ORGANIZATION>Commonwealth</ORGANIZATION> ] to pass the secrecy act and hide the process from the public , " <PERSON>Knaack</PERSON> said . 
+Knaack also said the <ORGANIZATION>Commonwealth</ORGANIZATION> 's attempt to utilize the electric chair when there are no available drugs does not address the underlying problem with the process of capital punishment . 
+Though the <ORGANIZATION>ACLU</ORGANIZATION> is opposed to capital punishment altogether , <PERSON>Knaack</PERSON> said there should be an increased focus on promoting transparency in the process leading up to execution . 
+" We think the government is missing the problem , instead of focusing on which method of execution to carry out they should focus on ensuring that the trial process is fair and accurate , " <PERSON>Knaack</PERSON> said . 
+There are no executions currently scheduled for <DATE>2015</DATE> , and the last one conducted by the <ORGANIZATION>Commonwealth</ORGANIZATION> occurred in <DATE>2013</DATE> . 

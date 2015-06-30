@@ -1,0 +1,44 @@
+<PERSON>Richard Dizon</PERSON> | The Cavalier Daily READ : Full investigation summary from the <LOCATION>Charlottesville</LOCATION> police . 
+Following an investigation spanning several months and hundreds of police hours , <LOCATION>Charlottesville</LOCATION> police are suspending the investigation into the alleged sexual assault detailed in a <DATE>November</DATE> Rolling Stone article , finding no evidence to corroborate any of the article 's central claims pertaining to the assault . 
+Police launched the investigation in <DATE>November</DATE> at the request of <ORGANIZATION>University</ORGANIZATION> President <PERSON>Teresa Sullivan</PERSON> after the magazine published an article detailing a graphic sexual assault of a then-first year student , identified as " Jackie , " in <DATE>Sept. 2012</DATE> at a fraternity house . 
+The fraternity at the center of the initial fervor was cleared of any involvement in the incident back in <DATE>January</DATE> . 
+" We are not able to conclude to any substantive degree that an incident that is specific to the facts contained in that article occurred at the <ORGANIZATION>Phi Kappa Psi</ORGANIZATION> fraternity house or any other fraternity house for that matter , " <LOCATION>Charlottesville</LOCATION> Police Chief <PERSON>Tim Longo</PERSON> said at a <DATE>Monday</DATE> press conference . 
+" I want to be clear about something - that does not mean that something terrible did not happen on <DATE>Sept. 28 , 2012</DATE> . 
+We are just not able to gather sufficient facts as to what that something may have been . " 
+<PERSON>Longo</PERSON> said the investigation has been suspended , but not formally closed . 
+During the investigation , police discovered that the report detailed in the Rolling Stone article differed significantly from the report <PERSON>Jackie</PERSON> made to Asst. Dean of Students <PERSON>Nicole Eramo</PERSON> in <DATE>May 2013</DATE> about the assault - at which time she did not identify a fraternity or a house . 
+It was also different from the account she told two of her friends on the night of the alleged assault . 
+Jackie told <ORGANIZATION>Eramo</ORGANIZATION> about the alleged assault during a meeting to discuss her academic performance , <PERSON>Longo</PERSON> said . 
+A summary of the police investigation provided to media <DATE>Monday</DATE> said <PERSON>Eramo</PERSON> " provided ' <PERSON>Jackie</PERSON> ' with the options available per U.Va . 
+protocol in place at the time . " 
+Police were first made aware of the incident in <DATE>April 2014</DATE> , when <PERSON>Jackie</PERSON> spoke with police regarding a second incident in which <PERSON>Jackie</PERSON> said four men pursued her and threw a glass bottle at her as she walked down Elliewood Avenue on the Corner . 
+She declined to pursue criminal charges and asked police not to pursue the alleged <DATE>Sept. 2012</DATE> assault . 
+In Brief : A timeline of <ORGANIZATION>The Rolling Stone</ORGANIZATION> controversy Throughout the investigation into the claims in Rolling Stone , police spoke with 70 individuals , including several members of <ORGANIZATION>Phi Psi</ORGANIZATION> fraternity . 
+Police also interviewed several individuals who worked at the Aquatic and <ORGANIZATION>Fitness Center</ORGANIZATION> - where <PERSON>Jackie</PERSON> said she met one of her alleged attackers , identified as " Drew " in the article . 
+Police found nobody matching Drew 's description , but did interview a second individual " whose name surfaced during the course of the investigation " who worked at the <ORGANIZATION>AFC</ORGANIZATION> and was in a different fraternity . 
+Police interviewed him along with several members of his fraternity and found no evidence supporting the Rolling Stone allegations . 
+<PERSON>Longo</PERSON> said most individuals were fully cooperative with the investigation , including the article 's author <PERSON>Sabrina Erdely</PERSON> , and he thanked <ORGANIZATION>University</ORGANIZATION> President <PERSON>Teresa Sullivan</PERSON> and the <ORGANIZATION>University</ORGANIZATION> staff for providing interviews and records which aided in the investigation . 
+Police did attempt to interview <PERSON>Jackie</PERSON> during the investigation , but she declined to offer a statement . 
+The last contact they had with her was in early <DATE>December</DATE> , when she visited police with the accompaniment of Assoc. Dean of Students <PERSON>Laurie Casteen</PERSON> and a legal representative from the Legal Aid and <ORGANIZATION>Justice Center</ORGANIZATION> . 
+" Since that time , despite numerous attempts to gain her cooperation , ' <PERSON>Jackie</PERSON> ' has provided no information whatsoever to investigators , " according to the investigation summary . 
+" In an effort to access certain records pertaining to ' <PERSON>Jackie</PERSON> ' that would aid in our investigation , efforts were made through her legal counsel to obtain her written consent . 
+Those efforts , too , were met with negative results . " 
+Police found no evidence that <ORGANIZATION>Phi Psi</ORGANIZATION> hosted a party on the <TIME>night</TIME> of <DATE>Sept. 28 , 2012</DATE> - also noting the organization 's " sister sorority , " <ORGANIZATION>Delta Gamma</ORGANIZATION> , was hosting a formal that night , making it unlikely the fraternity would have hosted a party . 
+They also found a picture taken that night which showed the fraternity house nearly empty . 
+Eyewitnesses told police they saw no physical injuries on <PERSON>Jackie</PERSON> on the night of the alleged assault . 
+<PERSON>Longo</PERSON> said the investigation also led to questions about the accuracy of <PERSON>Jackie</PERSON> 's alleged assault on the Corner in <DATE>April 2014</DATE> , noting that she said her roommate , a nursing student , had to pick glass off of her face that night . 
+The roommate told investigators this did not occur , but noted there was an abrasion on her face - corroborated by a photograph taken around the time of the incident . 
+Jackie also said she called her mother from the Elliewood parking lot , which phone records did not show . 
+Police investigators also could not substantiate claims of additional sexual assaults referenced in <LOCATION>Jackie</LOCATION> 's conversations with <PERSON>Eramo</PERSON> - in <DATE>2010</DATE> and <DATE>2014</DATE> , both occurring at the <ORGANIZATION>Phi Psi</ORGANIZATION> fraternity house . 
+<PERSON>Jackie</PERSON> did not identify the victims of these alleged assaults . 
+" We have no evidence of that - nobody has come forward making such allegations , no witnesses , no victims , " <PERSON>Longo</PERSON> said . 
+" But we 're asking if anybody has information related to a sexual assault that occurred in <DATE>2010</DATE> at that fraternity house , or 2014 at that fraternity house , or any other fraternity house , that they please cooperate with police to bring that to our attention . " 
+<PERSON>Longo</PERSON> said he would not pursue charges of making false allegations of sexual assault without the agreement of the commonwealth attorney . 
+In a statement following the announcement of the investigation 's results , <PERSON>Sullivan</PERSON> thanked <PERSON>Longo</PERSON> and the <LOCATION>Charlottesville</LOCATION> police for their " thorough investigation " into the Rolling Stone allegations . 
+" The investigation confirms what federal privacy law prohibited the <ORGANIZATION>University</ORGANIZATION> from sharing <DATE>last fall</DATE> : that the <ORGANIZATION>University</ORGANIZATION> provided support and care to a student in need , including assistance in reporting potential criminal conduct to law enforcement , " <PERSON>Sullivan</PERSON> said . 
+" Chief <PERSON>Longo</PERSON> 's report underscores what I have known since well before the publication of the Rolling Stone article : that we at <ORGANIZATION>the University</ORGANIZATION> are committed to ensuring the health and safety of all of our students . " 
+<PERSON>Longo</PERSON> emphasized the importance of survivors being aware of the resources available to them when reporting their attacks , and noted the importance of timely reporting in the criminal justice process . 
+" Having police involvement in the very early stages of these cases is extremely , extremely important , " <PERSON>Longo</PERSON> said . 
+" Every second of every minute of every hour of every day of every month of every year , we lose evidence . " 
+Evidence is important to get to the truth so " justice can prevail , " <PERSON>Longo</PERSON> said . 
+The police chief said <LOCATION>Charlottesville</LOCATION> police " will continue to stand by students " after seven tumultuous months at the <ORGANIZATION>University</ORGANIZATION> . 

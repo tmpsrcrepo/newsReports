@@ -1,0 +1,2 @@
+<ORGANIZATION>University Police</ORGANIZATION> arrested 27-year-old <PERSON>Derrick Johnson</PERSON> , above , and charged him with rape . 
+<ORGANIZATION>University Police</ORGANIZATION> Chief <PERSON>Michael Gibson</PERSON> had notified the <ORGANIZATION>University</ORGANIZATION> community of the alleged rape , which occurred on <DATE>Jan. 1</DATE> , on <DATE>Jan. 2</DATE> . 

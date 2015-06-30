@@ -1,0 +1,36 @@
+" I have been focusing all of my time on the issues , " <PERSON>Sullivan</PERSON> said . 
+" I am happy with an issue oriented campaign ... [ it 's ] what the district really deserves . " 
+The 74th district will vote to fill the seat of <LOCATION>Del</LOCATION> . 
+<PERSON>Joseph Morrissey</PERSON> , <LOCATION>D-Charles City County</LOCATION> , who resigned from the <ORGANIZATION>Virginia House of Delegates</ORGANIZATION> in <DATE>December</DATE> , in a special election <DATE>Tuesday</DATE> . 
+<PERSON>Morrissey</PERSON> , who is running to represent his constituents again as an independent , will face off against Republican <PERSON>Matt Walton</PERSON> and Democrat <PERSON>Kevin Sullivan</PERSON> . 
+Morrissey served in the <ORGANIZATION>House of Delegates</ORGANIZATION> beginning in <DATE>Nov. 2007</DATE> but was forced to resign from his seat after being convicted of contributing to the delinquency of a minor , a then-17-year-old employee at his <LOCATION>Richmond</LOCATION> law office with whom he was accused of having sexual relations . 
+Morrissey pled guilty to the charges , avoiding felony charges , but has stood by his innocence . 
+He is currently campaigning under a work-release order , which allows him to spend 12 hours per day outside of <ORGANIZATION>Henrico 's Regional Jail East</ORGANIZATION> . 
+Morrissey has won four general elections since <DATE>2007</DATE> , each time winning more than <PERCENT>70 percent</PERCENT> of the vote . 
+The <PERSON>Sullivan</PERSON> campaign aired several attack ads , presenting <PERSON>Morrissey</PERSON> as a sexual predator in a mailer and in a one minute radio ad which featured the young woman 's father . 
+In an effort to debunk allegations against him , <PERSON>Morrissey</PERSON> threatened to go public with accusations against the woman 's father by his family if the <PERSON>Sullivan</PERSON> campaign did not pull the ads . 
+After airing the attack ads , the <PERSON>Sullivan</PERSON> campaign has largely moved away from focusing on the <PERSON>Morrissey</PERSON> allegations . 
+" I have been focusing all of my time on the issues , " <PERSON>Sullivan</PERSON> said . 
+" I am happy with an issue oriented campaign , ... [ it 's ] what the district really deserves . " 
+<PERSON>Sullivan</PERSON> , a <ORGANIZATION>University</ORGANIZATION> graduate , is currently retired and is a manager of his small farm . 
+He said Medicaid expansion and increased education funding are critical to the future of the commonwealth . 
+Having worked 33 years for <ORGANIZATION>Anheuser-Busch Brewery</ORGANIZATION> , he said he wants to protect worker 's rights . 
+" My main focus is education and jobs , " <PERSON>Sullivan</PERSON> said . 
+" I am looking at ways to promote job growth and also to help first time home buyers . " 
+Law Student <PERSON>Antonio Elias</PERSON> , president of the Law Democrats , emphasized the qualifications which would make <PERSON>Sullivan</PERSON> fit for office . 
+" I think <PERSON>Kevin Sullivan</PERSON> would make an excellent delegate , " <PERSON>Elias</PERSON> said . 
+" I 've worked with [ <PERSON>Sullivan</PERSON> ] in the past and I know him to be a kind and dedicated person . 
+He used to represent laborers and labor unions and he was really passionate about it without ever being bossy and loud . " 
+Additionally , <PERSON>Elias</PERSON> stressed the unique needs of the 74th district 's voters and how <PERSON>Sullivan</PERSON> could fulfill them . " 
+[ The 74th district ] is a district with a lot of poverty , " <PERSON>Elias</PERSON> said . 
+" Education is certainly very important . 
+... Another really big issue is voting rights and specifically restoration of voting rights for people who have been convicted of felonies . 
+... [ Nevertheless , ] what 's most important there is that the people get back to having a representative they can trust . " 
+<PERSON>Walton</PERSON> , a teacher at <ORGANIZATION>Glen Allen High School</ORGANIZATION> , has refrained from attacking <PERSON>Morrissey</PERSON> , focusing on a platform which emphasizes job creation and education . 
+" Education is my top priority , " <PERSON>Walton</PERSON> said . 
+" Figuring out what we can do to attract businesses to relocate to the [ 74th ] district and look at how to promote job growth - that 's what we really need to achieve the American dream . " 
+<PERSON>Walton</PERSON> said the issues mattered more to him than the allegations against <PERSON>Morrissey</PERSON> . 
+" My true focus is jobs and education in this election and campaign , " <PERSON>Walton</PERSON> said . 
+" Whatever else is going on is just a distraction from the issues . " 
+Morrissey has <MONEY>$ 73,000</MONEY> cash on hand , according to the most recent reporting deadline . 
+<PERSON>Sullivan</PERSON> and <PERSON>Walton</PERSON> have accumulated significantly less money , having access to <MONEY>$ 13,000</MONEY> and <MONEY>$ 10,000</MONEY> , respectively . 

@@ -1,0 +1,1095 @@
+
+0
+ORGANIZATION:Army
+
+11
+ORGANIZATION:Trek
+
+11
+LOCATION:Sulu
+
+14
+PERSON:Katie Koestner
+
+20
+LOCATION:Virginia
+
+27
+ORGANIZATION:UVA
+
+30
+LOCATION:U. Virginia
+
+31
+LOCATION:Virginia
+
+31
+ORGANIZATION:Standards of Conduct
+
+32
+ORGANIZATION:U. Virginia Sexual Assault Board
+
+34
+ORGANIZATION:U. Virginia Sexual Assault Board
+
+36
+ORGANIZATION:UVA Amnesty International
+
+38
+LOCATION:Virginia
+
+42
+LOCATION:Virginia
+
+44
+LOCATION:U. Virginia
+
+45
+LOCATION:Virginia
+
+45
+PERSON:Jefferson
+
+47
+LOCATION:U. Virginia
+
+49
+LOCATION:U. Virginia
+
+50
+LOCATION:U. Virginia
+
+52
+LOCATION:U. Virginia
+
+52
+DATE:Saturday
+
+52
+TIME:night
+
+55
+LOCATION:Virginia
+
+57
+LOCATION:Virginia
+
+57
+PERCENT:30 percent
+
+60
+LOCATION:Virginia
+
+61
+LOCATION:Virginia
+
+62
+ORGANIZATION:Board
+
+63
+LOCATION:U. Virginia
+
+65
+LOCATION:Virginia
+
+66
+LOCATION:Virginia
+
+67
+LOCATION:Virginia
+
+68
+LOCATION:Virginia
+
+68
+LOCATION:U. Virginia
+
+69
+LOCATION:U. Virginia
+
+72
+LOCATION:U. Virginia
+
+73
+LOCATION:Virginia
+
+74
+LOCATION:U. Virginia
+
+76
+LOCATION:Virginia
+
+77
+LOCATION:U. Virginia
+
+79
+ORGANIZATION:Supreme Court
+
+79
+ORGANIZATION:Virginia Tech
+
+80
+LOCATION:U. Virginia
+
+81
+LOCATION:U. Virginia
+
+82
+LOCATION:Virginia
+
+83
+LOCATION:Virginia
+
+84
+LOCATION:Virginia
+
+85
+LOCATION:Virginia
+
+86
+LOCATION:U. Virginia
+
+87
+LOCATION:Virginia
+
+89
+ORGANIZATION:Cider House Rules
+
+90
+ORGANIZATION:Cider House
+
+92
+LOCATION:Virginia
+
+93
+LOCATION:U.
+
+95
+ORGANIZATION:District Court
+
+96
+PERSON:Truman
+
+96
+LOCATION:U. Virginia
+
+97
+LOCATION:U. Virginia
+
+98
+LOCATION:Davis
+
+98
+LOCATION:U. Virginia
+
+99
+LOCATION:U. Virginia
+
+100
+PERSON:Davis
+
+103
+TIME:night
+
+103
+ORGANIZATION:Iowa State
+
+104
+LOCATION:Virginia
+
+105
+LOCATION:Virginia
+
+107
+LOCATION:Virginia
+
+109
+LOCATION:U. Virginia
+
+110
+LOCATION:Virginia
+
+111
+LOCATION:U. Virginia
+
+112
+LOCATION:U. Virginia
+
+113
+LOCATION:Virginia
+
+114
+LOCATION:U. Virginia
+
+116
+ORGANIZATION:DNA
+
+118
+LOCATION:U. Virginia
+
+119
+LOCATION:Texas
+
+121
+LOCATION:U. Virginia
+
+122
+LOCATION:Virginia
+
+125
+ORGANIZATION:Justice Department
+
+126
+ORGANIZATION:NIJ
+
+126
+LOCATION:U. Virginia
+
+128
+LOCATION:Burma
+
+133
+PERSON:McVeigh
+
+134
+ORGANIZATION:U. Virginia Medical Center
+
+135
+LOCATION:U. Virginia
+
+137
+LOCATION:Virginia
+
+138
+ORGANIZATION:U. Virginia Medical Center
+
+139
+ORGANIZATION:U. Virginia Med Center
+
+143
+ORGANIZATION:'House
+
+144
+ORGANIZATION:Virginia Military Institute
+
+145
+LOCATION:Virginia
+
+145
+ORGANIZATION:Unocal
+
+145
+LOCATION:Burma
+
+147
+LOCATION:America
+
+148
+LOCATION:Burma
+
+148
+LOCATION:U. Virginia
+
+155
+LOCATION:Virginia
+
+155
+DATE:1927
+
+160
+LOCATION:Virginia
+
+162
+LOCATION:Virginia
+
+164
+PERSON:Vance
+
+168
+LOCATION:U. Virginia
+
+169
+LOCATION:Virginia
+
+170
+LOCATION:Ashcroft
+
+171
+PERSON:Clarence Thomas
+
+171
+ORGANIZATION:Virginia Law School
+
+173
+PERSON:Thomas
+
+174
+ORGANIZATION:Harvard
+
+175
+LOCATION:U. Virginia
+
+177
+LOCATION:Virginia
+
+179
+LOCATION:Virginia
+
+182
+LOCATION:Augusta
+
+184
+LOCATION:U. Virginia
+
+185
+LOCATION:Virginia
+
+188
+LOCATION:Virginia
+
+191
+ORGANIZATION:Iraq
+
+192
+LOCATION:Virginia
+
+193
+LOCATION:Israel
+
+195
+LOCATION:Virginia
+
+196
+PERSON:James Madison U.
+
+197
+LOCATION:U. Virginia
+
+198
+LOCATION:Virginia
+
+198
+DATE:2003
+
+199
+LOCATION:Virginia
+
+199
+DATE:2003
+
+200
+LOCATION:Virginia
+
+200
+DATE:2003
+
+202
+LOCATION:America
+
+203
+LOCATION:Virginia
+
+204
+ORGANIZATION:College of William & Mary
+
+208
+LOCATION:Virginia
+
+210
+LOCATION:U. Virginia
+
+211
+ORGANIZATION:U. Virginia Delta Sigma Phi
+
+211
+ORGANIZATION:University
+
+212
+LOCATION:U. Virginia
+
+213
+LOCATION:Virginia
+
+214
+LOCATION:Virginia
+
+216
+LOCATION:U. Virginia
+
+220
+LOCATION:Virginia
+
+220
+TIME:Night
+
+223
+LOCATION:Virginia
+
+227
+LOCATION:U. Virginia
+
+231
+ORGANIZATION:U. Virginia Consent Campaign
+
+232
+LOCATION:America
+
+237
+LOCATION:Virginia
+
+241
+LOCATION:U. Virginia
+
+243
+LOCATION:U. Virginia
+
+244
+LOCATION:Santa Claus
+
+247
+LOCATION:U. Virginia
+
+258
+LOCATION:U. Virginia
+
+260
+LOCATION:U. Virginia
+
+262
+LOCATION:U. Virginia
+
+263
+LOCATION:U. Virginia
+
+263
+MONEY:$150,000
+
+264
+LOCATION:U. Virginia
+
+265
+LOCATION:U. Virginia
+
+266
+LOCATION:U. Virginia
+
+268
+LOCATION:U. Virginia
+
+270
+LOCATION:Virginia
+
+271
+LOCATION:Virginia
+
+272
+LOCATION:U. Virginia
+
+277
+LOCATION:Virginia
+
+278
+LOCATION:Virginia
+
+279
+LOCATION:Virginia
+
+279
+MONEY:$30,000
+
+280
+LOCATION:U. Virginia
+
+282
+ORGANIZATION:First Amendment
+
+285
+LOCATION:Virginia
+
+285
+DATE:1984
+
+286
+LOCATION:Virginia
+
+286
+DATE:1984
+
+289
+LOCATION:U.S.
+
+290
+LOCATION:U.S.
+
+292
+LOCATION:Virginia
+
+293
+LOCATION:Virginia
+
+294
+ORGANIZATION:U. Virginia Judiciary Committee
+
+297
+LOCATION:Virginia
+
+300
+ORGANIZATION:Duke
+
+301
+LOCATION:U. Virginia
+
+309
+LOCATION:Virginia
+
+313
+LOCATION:U. Virginia
+
+314
+LOCATION:U. Virginia
+
+315
+LOCATION:Virginia
+
+321
+DATE:1984
+
+321
+LOCATION:Virginia
+
+322
+LOCATION:U. Virginia
+
+328
+LOCATION:Virginia
+
+328
+ORGANIZATION:Commission on Sexual Violence
+
+330
+LOCATION:Virginia
+
+332
+LOCATION:U. Virginia
+
+334
+LOCATION:Virginia
+
+336
+PERSON:Jackson
+
+337
+LOCATION:U. Virginia
+
+339
+LOCATION:Virginia
+
+339
+PERSON:Clausen
+
+341
+LOCATION:N.C.
+
+343
+LOCATION:N.C.
+
+346
+DATE:last four years
+
+347
+DATE:last 4 years
+
+348
+LOCATION:Va.
+
+351
+LOCATION:Virginia
+
+352
+LOCATION:Virginia
+
+353
+LOCATION:Virginia
+
+357
+LOCATION:Charlottesville
+
+357
+LOCATION:U. Virginia
+
+357
+DATE:2007
+
+358
+LOCATION:U. Virginia
+
+361
+LOCATION:Va
+
+370
+ORGANIZATION:The University
+
+373
+LOCATION:Avon
+
+387
+ORGANIZATION:University
+
+393
+ORGANIZATION:House
+
+394
+ORGANIZATION:Morris
+
+399
+ORGANIZATION:Virginia House
+
+401
+ORGANIZATION:College & Engineering
+
+402
+ORGANIZATION:Commerce
+
+412
+ORGANIZATION:Assault Leadership Council
+
+412
+DATE:Night week
+
+414
+ORGANIZATION:Night
+
+414
+ORGANIZATION:Sexual Misconduct Board
+
+432
+ORGANIZATION:UJC
+
+446
+LOCATION:Virginia
+
+446
+ORGANIZATION:University
+
+450
+LOCATION:Graham
+
+453
+ORGANIZATION:White House
+
+454
+ORGANIZATION:Charlottesville Group
+
+457
+PERSON:Renda
+
+463
+PERSON:Morgan Harrington
+
+465
+ORGANIZATION:Voice
+
+466
+ORGANIZATION:Domestic Violence Awareness Month
+
+468
+ORGANIZATION:Virginia Wesleyan College
+
+469
+LOCATION:Virginia
+
+470
+ORGANIZATION:Department of Education
+
+470
+ORGANIZATION:Clery Act
+
+471
+ORGANIZATION:Jameis Winston
+
+471
+LOCATION:Virginia
+
+472
+DATE:2005
+
+473
+PERSON:Clery
+
+476
+PERSON:Graham
+
+479
+ORGANIZATION:Sexual Violence Prevention Council
+
+481
+MONEY:$20,000
+
+484
+PERSON:McAuliffe
+
+486
+ORGANIZATION:UJC
+
+487
+ORGANIZATION:DOE
+
+491
+LOCATION:Virginia
+
+492
+LOCATION:Charlottesville
+
+493
+PERSON:Graham
+
+494
+ORGANIZATION:Albemarle Sheriff Chip Harding
+
+497
+ORGANIZATION:Phi Kappa Psi
+
+498
+ORGANIZATION:Phi Kappa Psi
+
+502
+ORGANIZATION:Rolling Stone
+
+507
+PERSON:Mark Filip
+
+507
+LOCATION:Phi
+
+510
+ORGANIZATION:Phi Kappa Psi
+
+512
+PERSON:Sullivan
+
+514
+ORGANIZATION:Corner
+
+516
+PERSON:Sullivan
+
+524
+ORGANIZATION:University Glee Club
+
+525
+ORGANIZATION:Phi Kappa Psi
+
+525
+ORGANIZATION:University
+
+526
+DATE:November 2014
+
+526
+PERSON:Sullivan
+
+529
+DATE:Wednesday
+
+530
+ORGANIZATION:Assault Resource Agency
+
+537
+ORGANIZATION:Board of Visitors
+
+538
+PERSON:Sullivan
+
+538
+ORGANIZATION:University
+
+545
+ORGANIZATION:Eminem
+
+547
+DATE:March
+
+551
+ORGANIZATION:Committee on Safety Programs
+
+558
+ORGANIZATION:Board of
+
+561
+ORGANIZATION:Everyone
+
+562
+ORGANIZATION:Phi Kappa Psi
+
+564
+LOCATION:Virginia
+
+565
+ORGANIZATION:IFC
+
+570
+ORGANIZATION:Rolling Stone
+
+575
+PERSON:Jackie
+
+576
+ORGANIZATION:University
+
+578
+PERSON:Jackie
+
+580
+PERSON:Jackie
+
+581
+ORGANIZATION:Columbia Journalism School
+
+582
+PERSON:Sullivan
+
+584
+ORGANIZATION:Fraternal Organization Agreements
+
+585
+ORGANIZATION:Sexual Assault
+
+587
+PERSON:Hannah Graham Disappearance
+
+588
+ORGANIZATION:Phi Kappa Psi
+
+593
+PERSON:Walton
+
+593
+PERSON:Sullivan
+
+599
+LOCATION:Virginia
+
+605
+PERSON:Joseph Morrissey
+
+607
+ORGANIZATION:Rolling Stone
+
+610
+ORGANIZATION:National Panhellenic Conference
+
+614
+ORGANIZATION:Virginia General Assembly
+
+618
+ORGANIZATION:Boys Bid Night
+
+621
+DATE:5000
+
+622
+PERSON:Sullivan
+
+623
+ORGANIZATION:House of Delegates
+
+623
+ORGANIZATION:Lyft DMV
+
+624
+PERSON:Kaine
+
+626
+LOCATION:Dartmouth
+
+628
+LOCATION:Fairfax County
+
+636
+LOCATION:FERPA
+
+637
+LOCATION:FERPA
+
+638
+LOCATION:Fairfax County
+
+642
+ORGANIZATION:Psi
+
+643
+ORGANIZATION:Law School
+
+649
+ORGANIZATION:University's Living Wage Campaign
+
+652
+ORGANIZATION:Prevention Working Group
+
+654
+ORGANIZATION:CIO
+
+656
+PERSON:Jesse Matthew
+
+656
+ORGANIZATION:Albemarle County Circuit
+
+657
+LOCATION:Louisville
+
+657
+DATE:Saturday
+
+658
+LOCATION:Virginia
+
+659
+ORGANIZATION:Warner
+
+660
+ORGANIZATION:University
+
+661
+ORGANIZATION:Response Working Group
+
+662
+ORGANIZATION:Working Group
+
+662
+ORGANIZATION:Hoc Committee
+
+665
+DATE:September
+
+667
+ORGANIZATION:Women's History Month
+
+668
+ORGANIZATION:Malena Magnolia
+
+669
+LOCATION:Boxer
+
+669
+PERSON:Gillibrand
+
+672
+ORGANIZATION:Board of Visitors
+
+672
+PERSON:Frank Atkinson
+
+683
+ORGANIZATION:Board of Visitors
+
+683
+ORGANIZATION:NCAA
+
+689
+ORGANIZATION:University
+
+690
+PERSON:Sharon Davie
+
+695
+PERSON:Lyons
+
+695
+ORGANIZATION:Phi Delta
+
+697
+ORGANIZATION:University
+
+698
+ORGANIZATION:Virginia Policy Review
+
+703
+ORGANIZATION:Psi
+
+705
+ORGANIZATION:Virginia Tech
+
+706
+ORGANIZATION:Columbia School of Journalism
+
+708
+ORGANIZATION:Psi
+
+711
+ORGANIZATION:Phi Psi
+
+712
+PERSON:Rand Paul
+
+712
+ORGANIZATION:GOP
+
+713
+PERSON:Sullivan
+
+714
+ORGANIZATION:Black Alumni Weekend
+
+715
+ORGANIZATION:Night
+
+717
+ORGANIZATION:Night
+
+718
+ORGANIZATION:Night
+
+720
+ORGANIZATION:American Law Institute
+
+723
+ORGANIZATION:American Association of University Women
+
+724
+PERSON:Nicole Eramo
+
+725
+ORGANIZATION:Rolling Stone
+
+727
+PERSON:Ralph Northam
+
+727
+ORGANIZATION:University
+
+728
+ORGANIZATION:Middle Eastern
+
+732
+ORGANIZATION:Elizabeth Armstrong
+
+732
+ORGANIZATION:University
+
+733
+ORGANIZATION:2014-15 University
+
+734
+PERCENT:10 percent
+
+734
+ORGANIZATION:Green Dot
+
+736
+LOCATION:Jefferson
+
+737
+PERSON:Jesse Matthew
+
+738
+DATE:summer
+
+739
+PERSON:Nicole Eramo
+
+739
+LOCATION:Erdely
+
+740
+DATE:2015

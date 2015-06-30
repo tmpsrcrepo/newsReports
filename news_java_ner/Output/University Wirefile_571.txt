@@ -1,0 +1,50 @@
+<PERSON>Rebecca Lim</PERSON> | The Cavalier Daily Several student leaders and advocates held a press conference last month to discuss the ongoing advocacy efforts at the <ORGANIZATION>University</ORGANIZATION> to combat sexual assault . 
+Student leaders responded to a statement issued <DATE>Friday</DATE> by Rolling Stone magazine , in which managing editor Will <PERSON>Dana</PERSON> apologized to readers for " discrepancies " in an article published last month detailing the alleged gang rape in <DATE>Sept. 2012</DATE> of a then-first year student Jackie by at least one member of the <ORGANIZATION>University</ORGANIZATION> chapter of <ORGANIZATION>Phi Kappa Psi</ORGANIZATION> fraternity . 
+<ORGANIZATION>Phi Kappa Psi</ORGANIZATION> has listed at least three specific details from its internal investigation which refute <PERSON>Jackie</PERSON> 's account . 
+The fraternity 's statement , along with <PERSON>Dana</PERSON> 's comment that the magazine 's trust in her was " misplaced , " have raised questions about the incident as a whole . 
+Third-year College student <PERSON>Sara Surface</PERSON> , chair of the <ORGANIZATION>Sexual Violence Prevention Coalition</ORGANIZATION> , said the experience of a sexual assault is often so traumatizing that victims have trouble remembering details . 
+" Trauma does a lot of things to the brain and to memory , " she said . 
+" It is not uncommon for details to not 100 percent match up with what people believe to be a reasonable story . 
+The thing is , most people do n't have to [ be ] hounded by reporters about that . " 
+This lack of recollection does not mean their stories are entirely false , she said . 
+" Are we going to say then , because you ca n't confirm 100 percent all of these details because of emotional duress , [ that ] you were lying that you were ever attacked ? " 
+she said . 
+The article , " A Rape on Campus " by <PERSON>Sabrina Rubin Erdely</PERSON> , provided a detailed account of a gang rape that took place in the <ORGANIZATION>Phi Kappa Psi</ORGANIZATION> house . 
+It recounts <PERSON>Jackie</PERSON> 's narrative of being invited to a date function by a third-year student , " Drew " - identified as a <ORGANIZATION>Phi Kappa Psi</ORGANIZATION> brother who worked as a lifeguard with <PERSON>Jackie</PERSON> . 
+<ORGANIZATION>Phi Kappa Psi</ORGANIZATION> 's statement <DATE>Friday</DATE> says there were no fraternity brothers employed at the Aquatic and <ORGANIZATION>Fitness Center</ORGANIZATION> during the <DATE>fall 2012</DATE> semester and no date function or other social event took place at the house on the night in question - <DATE>Sept. 28 , 2012</DATE> . 
+Surface , a third-year College student , said doubts about details in the story do not change the overall significance of the crime that has been reported or the need for awareness about gender-based violence on Grounds and in the Greek system . 
+" We 're not sure it 's <LOCATION>Phi Psi</LOCATION> - it still easily could have been in a fraternity house , " she said . 
+" I 'm not trying to villainize [ fraternities ] , but we need to examine the structures of our system and look to improve them . 
+I would hope we 'd be doing that anyway , and the article has only increased those efforts . " 
+Brian Head , a fourth-year <ORGANIZATION>Commerce</ORGANIZATION> student and president of One in Four - a student sexual assault prevention advocacy group - echoed this sentiment , pointing to the severe effects of trauma on memories of sexual and non-sexual traumas . 
+" The inaccuracies of a Rolling Stone article that had a caricature depiction of our school does n't change the fact that we need to believe our friends if they come to you and say they 're been sexually assaulted , " he said . 
+" People were horrified by the reported reaction of <PERSON>Jackie</PERSON> 's friends in that article . " 
+By <ORGANIZATION>Rolling Stone</ORGANIZATION> 's account , when <PERSON>Jackie</PERSON> recounted her experience to friends , they did not encourage her to seek help from the police , and told her that her social reputation might suffer if she did decide to report the rape . 
+However , the <LOCATION>Washington</LOCATION> Post reported that <PERSON>Jackie</PERSON> 's friend " Andy " finds fault in the way <PERSON>Jackie</PERSON> 's story was recounted in the original article . " 
+' <PERSON>Andy '</PERSON> said <PERSON>Jackie</PERSON> said she had been at a fraternity party and had been forced to perform oral sex on a group of men , but he does not remember her identifying a specific house , " the Post reports . 
+" He said he did not notice any injuries or blood but said the group offered to get her help . 
+She , instead , wanted to return to her dorm , and he and the friends spent the night with her to comfort her at her request . " 
+Andy 's identity has not been disclosed . 
+One in Four released a statement <DATE>Friday</DATE> <TIME>night</TIME> imploring students to remain focused on survivor support and bystander intervention , even as <PERSON>Jackie</PERSON> 's narrative is called into question . 
+" We remain unwavering in our feelings regarding this issue : no matter what is brought to light , we as a community have experienced the strongest emotion , the greatest desire for change , and the farthest step forward in the history of our <ORGANIZATION>University</ORGANIZATION> towards ending sexual assault , " the statement said . 
+Student Council President <PERSON>Jalen Ross</PERSON> , a fourth-year Engineering student , said the important dialogue surrounding this article has never been based on the specific details of the case . 
+" The details of the story could turn out to be any number of things , " he said . 
+" That does n't change the problem that we 're trying to fix . " 
+<PERSON>Ross</PERSON> said possible inaccuracies in the article are an example of the danger that comes in pinning the issue of sexual assault exclusively on fraternities . 
+" We need to be exceptionally careful about pinning this problem on any one group of people . 
+I 've always been concerned about the vitriol that was aimed at fraternities in this problem , " he said . 
+" That being said , you 'd be hard-pressed to find someone who is committed to and educated about this issue to say that fraternities do n't have work to do . " 
+The <ORGANIZATION>Inter-Fraternity Council</ORGANIZATION> released a brief statement <DATE>Friday</DATE> asking students to remain focused on the larger picture of sexual assault , instead of focusing on the alleged inaccuracies in <LOCATION>Jackie</LOCATION> 's story . 
+" The <ORGANIZATION>IFC</ORGANIZATION> would like to emphasize that the facts of this specific article do not change the broader reality we face as a <ORGANIZATION>University</ORGANIZATION> , " the statement reads . 
+" We ask that our community does not become mired in details of one specific incident , but rather that we continue relentlessly pursuing institutionalized survivor support , the promotion of bystander awareness , and a safe and healthy environment for all U.Va . 
+students . " 
+Head emphasized that the conversation about sexual assault prevention has been an ongoing effort since the beginning of the school year . 
+" You 've seen a marked increase in attention [ to ] this issue over the whole semester , even before this article came out , and we must address it with as much rigor as we did before [ the Rolling Stone retraction ] , " he said . 
+" I do n't see why this has to slow down policy change , education , and advocacy at the <ORGANIZATION>University</ORGANIZATION> . " 
+Whatever the facts are determined to be in this case , Surface said , survivor support organizations like One Less are not investigative bodies , nor is it appropriate for them to be . 
+" As an advocate its not my job to be an investigator , and its my job to support survivors , and I will contribute to support their voices and any processes of recovery , " she said . 
+<PERSON>Ross</PERSON> echoed this sentiment , saying the story has given the University the energy it needed to address sexual violence head-on . 
+" It has never been about the details of this story . 
+It has been about every story , and every survivor , " <PERSON>Ross</PERSON> said . 
+" From top to bottom , we are still committed to solving this problem . 
+This is about so many more of our classmates than just <PERSON>Jackie</PERSON> . " 

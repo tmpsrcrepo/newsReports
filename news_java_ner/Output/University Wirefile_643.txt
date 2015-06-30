@@ -1,0 +1,25 @@
+<PERSON>Hannah Mussi</PERSON> | The <ORGANIZATION>Cavalier Daily Student</ORGANIZATION> council members discuss the upcoming year Student Council met in the Law School <DATE>Tuesday</DATE> to hear from a representative from the <ORGANIZATION>Student Bar Association</ORGANIZATION> as well as members of University ITS . 
+Morgan Lingar , incoming <ORGANIZATION>SBA</ORGANIZATION> president and Law School representative , gave <ORGANIZATION>Council</ORGANIZATION> an overview of the organization 's current concerns and plans for the upcoming year . 
+" I really would like to focus on student self governance in terms of how it applies to a lot of ways over the past year we 've seen administrators working unilaterally without consulting law students , " she said . 
+Lingar said there have been issues with administrative control of the Keg , a weekly social event at the <ORGANIZATION>Law School</ORGANIZATION> . 
+" When we had to get reapproved for this semester , " she said , " we were told that we were going to have to move it to Fridays with the knowledge that next year there would be no weekly events holding alcohol at all at the Law School . " 
+Lingar said law school students were frustrated with the reasoning for cancelling such events , which they were told was a problem with sexual assault with the <ORGANIZATION>Law School Bar Review</ORGANIZATION> , another <DATE>Thursday</DATE> evening event . 
+" A lot of people , myself included , are very concerned that that is our way of addressing sesxual assault , " she said . 
+" We 're very frustrated our voices are n't heard . " 
+Lingar said when she asked more specifically about reported sexual assaults or any research which might show a higher number of reports on <DATE>Thursdays</DATE> due to the association with <ORGANIZATION>Law School</ORGANIZATION> events , she was told while administrators have not kept specific data or records , there have been reported assaults . 
+" What we 've been hearing from the administrators is just the philosophy that it is within the administrator 's rights to make decisions without consulting students , " she said . 
+" For a school that values self governance , that attitude to me is very disturbing . " 
+Lingar said <ORGANIZATION>SBA</ORGANIZATION> is continuing to work on the issue , but she expects it to be ongoing for quite some time . 
+Law School Representative <PERSON>Andrew Lanius</PERSON> agreed with <PERSON>Lingar</PERSON> and said there has been a lot of encroachment on student rights by both named and unnamed administrators . 
+" We 've keep getting the runaround when we try and figure out what is going on here , " he said . 
+" Even last semester , they pulled our student newspaper one week because they thought one of the columns they did was offensive . " 
+Lingar said she would ultimately like to increase <ORGANIZATION>SBA</ORGANIZATION> involvement with other <ORGANIZATION>University</ORGANIZATION> student leadership organizations to talk about student self governance . 
+ITS also spoke to <ORGANIZATION>Council</ORGANIZATION> about the upcoming renovations to the <ORGANIZATION>University</ORGANIZATION> 's wireless technology system . 
+<PERSON>Keith Moores</PERSON> , director of network , telephone and video services , said ITS is in the middle of a <MONEY>$ 4 million</MONEY> project to upgrade all wireless access points on Grounds . 
+By replacing and redesigning WiFi on Grounds , <PERCENT>80 percent</PERCENT> of which is about 10 years old , he said ITS is jumping several generations ahead in wireless technology . 
+" The new system is faster , smarter [ and ] it is providing the ability to use all the devices people are connecting to wireless , " he said . 
+<PERSON>Moores</PERSON> said ITS is doubling the number of wireless access points in around 200 buildings on Grounds . 
+One of the key concepts in the project , he said , is the media redesign , in which ITS will evaluate different spaces and design wireless coverage best suited for each space . 
+<PERSON>Moore</PERSON> said a schedule and all the information related to the wireless upgrade project is available on the ITS website . 
+" We want people to be aware , " he said . 
+" The concept here is that we list everything we do publicly . " 

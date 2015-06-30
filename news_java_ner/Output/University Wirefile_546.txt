@@ -1,0 +1,24 @@
+University President <PERSON>Teresa Sullivan</PERSON> delivered an address to students <DATE>Monday</DATE> about the issue of sexual assault at the <ORGANIZATION>University</ORGANIZATION> . 
+In her address , <PERSON>Sullivan</PERSON> broke down the problem into a series of questions , exploring each individually . 
+Overall , <PERSON>Sullivan</PERSON> 's approach in her address indicates that she has a comprehensive understanding of this issue - that there are many moving parts which contribute to the problem , which is not specific to this university . 
+Sullivan focused on the connection between the past and the present , expressing dismay at reports from alumni that nothing has changed since their time at <ORGANIZATION>the University</ORGANIZATION> . 
+Rape is not a new problem ; any institutional changes which have occurred thus far have not been sufficient to address it . 
+<PERSON>Sullivan</PERSON> expressed a determination to make the climate change in the immediate future . 
+She said , " I want <DATE>Friday</DATE> and <DATE>Saturday</DATE> nights in the <DATE>spring</DATE> to look different than the way they looked this <DATE>fall</DATE> . " 
+Many criticized <PERSON>Sullivan</PERSON> 's initial email to the student body in response to Rolling Stone 's article , saying she was too passive , too stoic and was only trying to appease the student body while taking no real action . 
+<DATE>Monday</DATE> 's address indicates <PERSON>Sullivan</PERSON> has no intention of remaining passive , that she has already started to work on this issue , and that she is taking care to consult the major stakeholders in the process of making changes . 
+We can not critique many of the policy changes <PERSON>Sullivan</PERSON> said are in the works , because she revealed no details about them . 
+We will remain critical of the effectiveness of any new policy or proposal in the coming months , but what we know now contains promise . 
+One of the preliminary initiatives <PERSON>Sullivan</PERSON> mentioned was working with fraternities to change fraternal organization agreements so that all guests of fraternities are safer . 
+Even before we know what these changes are , we can see that <PERSON>Sullivan</PERSON> recognizes the benefits of working with the Greek system rather than maligning it . 
+One immediate change <PERSON>Sullivan</PERSON> announced was funding for another trauma counselor at the Women 's Center ; <PERSON>Sullivan</PERSON> demonstrated a significant amount of knowledge about trauma , as well as a desire to learn more . 
+She indicated she would be working closely with the Women 's Center to assess what is the best way to support survivors while facilitating reporting . 
+<PERSON>Sullivan</PERSON> also said <ORGANIZATION>the University</ORGANIZATION> would work more closely with the <LOCATION>Charlottesville</LOCATION> police department so the two can better understand each other 's investigations , and work to improve police practices so that trauma survivors can be accommodated as best as possible . 
+All of these initiatives indicate <PERSON>Sullivan</PERSON> intends to address the special needs to trauma survivors in her response . 
+<PERSON>Sullivan</PERSON> also alluded to high schools twice during her remarks , to point out an " unacknowledged " problem of high school students drinking , and to remind the audience of the fact that this is a national issue by stating that sexual assault also occurs in high schools . 
+This could be <PERSON>Sullivan</PERSON> 's way of calling on the nation 's primary and secondary education institutions to help tackle this national issue . 
+Universities can do a lot to address the problem , but high schools can contribute to the solution by confronting the challenges students face in their early teen years , which lay the groundwork for their experiences in college . 
+In her address , <PERSON>Sullivan</PERSON> managed to strike a balance between the value the <ORGANIZATION>University</ORGANIZATION> places on tradition , and the current necessity for change . 
+She used <PERSON>Thomas Jefferson</PERSON> 's famous words about " following the truth wherever it may lead " to express her desire to learn more about the potential shortcomings of this institution , and what she can do to address them . 
+She characterized our community as one of innovators who are capable of finding solutions , encouraging us to use the strengths we know we have to enact the change we know we need . 
+At a time like this , we need a leader who will recognize the <ORGANIZATION>University</ORGANIZATION> 's faults , but also remind us that we still have a solid ground of greatness to stand on , which will carry us through to a brighter future . 

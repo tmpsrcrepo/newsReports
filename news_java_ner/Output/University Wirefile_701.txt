@@ -1,0 +1,40 @@
+Yesterday , the <ORGANIZATION>Columbia University Graduate School of Journalism</ORGANIZATION> released its report on the journalistic catastrophe that was Rolling Stone 's " A Rape on Campus : A Brutal Assault and <ORGANIZATION>Struggle for Justice</ORGANIZATION> at UVA , " an article detailing an alleged - and subsequently discredited - account of a sexual assault at the <ORGANIZATION>University</ORGANIZATION> chapter of <ORGANIZATION>Phi Kappa Psi</ORGANIZATION> . 
+The report is scathing . 
+<PERSON>Sheila Coronel</PERSON> , <PERSON>Steve Coll</PERSON> and <PERSON>Derek Kravitz</PERSON> - its writers - conclude that Rolling Stone 's failure " encompassed reporting , editing , editorial supervision and fact-checking " - in other words , everything . 
+For their part , <PERSON>Coronel</PERSON> , <PERSON>Coll</PERSON> and <PERSON>Kravitz</PERSON> appear to have thoroughly addressed the major issues with the magazine 's reporting on the allegation that is most central to the narrative presented - an allegation from <PERSON>Jackie</PERSON> , a <ORGANIZATION>University</ORGANIZATION> student . 
+But as thoroughly as these professionals investigated the journalistic failures of <PERSON>Sabrina Rubin Erdely</PERSON> ( the article 's author ) , <PERSON>Sean Woods</PERSON> ( its editor ) and Will Dana ( Rolling Stone 's managing editor ) , they confined their investigation just to <PERSON>Jackie</PERSON> 's story . 
+This , we feel , was a mistake . 
+For <ORGANIZATION>University</ORGANIZATION> students , Rolling Stone did not just get one story wrong . 
+It presented a skewed perspective of our student body ; it vilified administrators without adequately explaining the constraints of federal law regarding these issues ; it reduced the significance of organizations like One Less and One in Four , as well as the work of many students ; it selected egregious elements of <ORGANIZATION>University</ORGANIZATION> culture - such as the " Rugby Road " song and the phrase " UVrApe " - and treated them as ubiquitous when they are not . 
+The <ORGANIZATION>Columbia</ORGANIZATION> report does not address these issues . 
+Toward the end of the report , in their analysis of Erdely 's take on <PERSON>Jackie</PERSON> , <PERSON>Coronel</PERSON> , <PERSON>Coll</PERSON> and <PERSON>Kravitz</PERSON> briefly delve into a discussion of confirmation bias , which they describe as " the tendency of people to be trapped by pre-existing assumptions and to select facts that support their own views while overlooking contradictory ones . " 
+This , they say , was a factor in <LOCATION>Erdely</LOCATION> 's reporting , particularly as it pertained to her portrayal of the <ORGANIZATION>University</ORGANIZATION> administration , who she felt was stonewalling her . 
+In reality , her interactions with them were complicated by many factors , including existing laws regarding universities ' ability to disclose information about sexual assaults . 
+Confirmation bias probably did play a large role in <LOCATION>Erdely</LOCATION> , Woods and <PERSON>Dana</PERSON> 's editorial decisions regarding " A Rape on Campus . " 
+But this role was not confined to their willingness to take <PERSON>Jackie</PERSON> 's story at face value . 
+The desire to portray rape at its most gruesome , and U.Va . 
+at its most privileged , spilled over into <ORGANIZATION>Erdely</ORGANIZATION> 's descriptions of other elements of U.Va. , elements not necessarily connected to <PERSON>Jackie</PERSON> 's story . 
+For instance , in <LOCATION>Erdely</LOCATION> 's narrative , she interviewed several <ORGANIZATION>University</ORGANIZATION> students without detailing their particular affiliations . 
+Including just one quote from fourth-year student <PERSON>Brian Head</PERSON> - " The most impressive person at <ORGANIZATION>UVA</ORGANIZATION> is the person who gets straight A 's and goes to all the parties " - <PERSON>Erdely</PERSON> did not mention Head 's position at the time as president of One in Four , an all-male sexual assault prevention group that was founded at <LOCATION>U.Va.</LOCATION> , despite the fact that this affiliation was the very reason she interviewed him in the first place . 
+Erdely went on to mention One in Four later in the article and described it as a national organization , but conveniently left out that its founding took place at <LOCATION>U.Va</LOCATION> . 
+Erdely referred to <PERSON>Emily Renda</PERSON> , a central character in the article , as a " recent grad , " but did not also describe her as a <ORGANIZATION>University</ORGANIZATION> employee , which she is and was at the time of the article 's publication . 
+For a report that discusses at length the issue of attributing information to sources throughout articles , the lack of mention of the importance of detailing the respective roles of sources is disappointing . 
+But this is not the only non-Jackie-related area of concern . 
+The <ORGANIZATION>Columbia</ORGANIZATION> report also rightfully details the difficulties of sourcing throughout a narrative-style article . 
+The authors write , " There is a tension in magazine and narrative editing between crafting a readable story - a story that flows - and providing clear attribution of quotations and facts . " 
+This is a central issue in the presentation of <PERSON>Jackie</PERSON> 's story . 
+It is also a central issue in the presentation of U.Va. , whose student body was largely homogenized . 
+This narrative style of journalism , in fact , requires broader scrutiny given the results of Rolling Stone 's article . 
+Coronel , <PERSON>Coll</PERSON> and <PERSON>Kravitz</PERSON> rightfully point to the issues with fact-checking and editorial decisions in this case as beyond the confines of this particular writing style . 
+But we should also more generally question this particular writing style as a reliable way to present news . 
+For example , within the text of this narrative-style article , Erdely frequently inserted her perspective and opinion : when discussing U.Va . 
+'s sexual misconduct policy , she called the adjudication of sexual assault by universities an " absurdity " and wrote that , though Title IX requires such adjudication , " no university on <LOCATION>Earth</LOCATION> is equipped to do [ it ] . " 
+This is not a balanced presentation of facts ; this is an opinion being framed as objective reporting . 
+It is not up to the authors of this report to account for every wrong Rolling Stone committed , and the job of these researchers was made harder still by the fact that they had to gather their information from Rolling Stone first ( though the magazine did provide a 405 page record of everything pertaining to the article ) . 
+But as we reflect on <ORGANIZATION>Erdely</ORGANIZATION> 's article , we should not confine our analysis of it just to <PERSON>Jackie</PERSON> 's story and the editorial failures surrounding its presentation . 
+It is a dramatic oversimplification to reduce this article - which shook our <ORGANIZATION>University</ORGANIZATION> to its core - just to that one narrative . 
+Where the <ORGANIZATION>Columbia</ORGANIZATION> report did not investigate , we hope we have filled in gaps as to <ORGANIZATION>Erdely</ORGANIZATION> 's presentation of our school . 
+Coronel , <PERSON>Coll</PERSON> and <PERSON>Kravitz</PERSON> end their analysis as follows : " The responsibilities that universities have in preventing campus sexual assault - and the standards of performance they should be held to - are important matters of public interest . 
+Rolling Stone was right to take them on . 
+The pattern of its failure draws a map of how to do better . " 
+This is entirely true , and we hope future endeavors do , in fact , do better - not just at fact-checking , but at presenting information in its entirety . 

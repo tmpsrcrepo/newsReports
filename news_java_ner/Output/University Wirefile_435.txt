@@ -1,0 +1,30 @@
+Back in <DATE>June</DATE> , <ORGANIZATION>Google</ORGANIZATION> released its workforce diversity numbers , which showed that only <PERCENT>30 percent</PERCENT> of <ORGANIZATION>Google</ORGANIZATION> employees worldwide are women and only <PERCENT>17 percent</PERCENT> of technical staffers are female . 
+These numbers are common among companies like <ORGANIZATION>Google</ORGANIZATION> , and I acknowledge that the pipeline problem exists : women hold fewer positions because they are statistically less likely to apply for technical jobs . 
+But what about the women who quit after they have already accepted the job ? 
+Not very many women pursue careers in technological fields to begin with . 
+Females earn roughly <PERCENT>18 percent</PERCENT> of all computer science degrees in the <LOCATION>United States</LOCATION> . 
+An article from <ORGANIZATION>Forbes</ORGANIZATION> blames that on that fact that " many girls do n't really know what computer science is . " 
+Perhaps educating young girls about how to code is one way to increase their entry into the profession , but that will not solve the other problem we are facing : women are leaving the profession even after they have been properly educated and hired , which The <ORGANIZATION>Harvard Business Review</ORGANIZATION> and other sources attribute to various forms of sexism . 
+The <ORGANIZATION>Harvard Business Review</ORGANIZATION> in <DATE>2008</DATE> wrote , " Between the ages 25 and 30 , <PERCENT>41 %</PERCENT> of the young talent with credentials in those subject matters are female ... [ but ] <PERCENT>52 %</PERCENT> of this talent drops out ... the most important antigen is the machismo that continues to permeate these work environments ... <PERCENT>63 %</PERCENT> of women in science , engineering and technology have experienced sexual harassment . " 
+A friend of mine in the <ORGANIZATION>University 's Engineering School</ORGANIZATION> recently told me that a man she worked with this <DATE>summer</DATE> asked her who she had slept with in order for her to obtain her high-level internship position . 
+Off-hand remarks such as this are not uncommon in STEM jobs , as evidenced by the many recent headlines describing the sexist and uncomfortable environment that exists . 
+One of the headlines I recall was the <PERSON>Wolfe</PERSON> scandal back in <DATE>July</DATE> . 
+<PERSON>Whitney Wolfe</PERSON> , a co-founder of the dating app Tinder , filed a lawsuit against Tinder and its parent company , <ORGANIZATION>IAC , Inc.</ORGANIZATION> on the grounds of gender discrimination and sexual harassment , naming Chief Marketing Officer <PERSON>Justin Mateen</PERSON> as the abuser . 
+Mateen and <PERSON>Wolfe</PERSON> had a relationship after he became her immediate supervisor . 
+<PERSON>Wolfe</PERSON> says that <PERSON>Mateen</PERSON> became controlling and abusive and when she broke it off , he called her " disgusting , " a " desperate loser , " a " sl * t " and a " whore " in private and in front of others at the company . 
+<PERSON>Wolfe</PERSON> 's lawsuit notes that her experience represents " the worst of the misogynist , alpha-male stereotype too often associated with technology startups , " a stereotype that is brought to life by the " brogrammer , " a frat-like evolution from a nerd mindset to one of machismo in STEM jobs . 
+<PERSON>Dan Shapiro</PERSON> , who sold his comparison-shopping startup Sparkbuy to <ORGANIZATION>Google</ORGANIZATION> in <DATE>2011</DATE> , explained that the brogrammer concept only overshadows the more subtle problem : " The everyday sexism in the tech industry ... [ is ] made of inappropriate comments [ and ] assumptions that put people in certain buckets . " 
+It is not just what we see that is harming women in these fields . 
+Situations such as <PERSON>Wolfe</PERSON> 's are not uncommon , and circumstances such as the aforementioned are causing women to drop out of the technology field and others like it . 
+It is disappointing to notice a trend of mistreatment of women in generally male-dominated professions . 
+Women are choosing to seek out tech jobs less and less often , which can only be seen as a departure due to the uncomfortable atmosphere that women have been subjected to . 
+As fewer women continue to enter STEM jobs , the field becomes more and more male dominated , thus perpetuating a system that allows for the brogrammer frat-boy humor and other forms of sexism . 
+If you are a female here at the <ORGANIZATION>University</ORGANIZATION> , or at any university for that matter , do not lose sight of your goal . 
+If a STEM job is your passion , then do not let these headlines , or even experienced sexism , deter you from pursuing that . 
+Rather , prove that women , just as men , have the potential to be successful in any field and that our gender should never define our ability . 
+Though it is true that harassment exists in the tech field , it is reported by the media as being found in almost every field . 
+Though we ca n't immediately change the mindset of every man in the workforce , what we can do is combat denigrating treatment by following <PERSON>Wolfe</PERSON> 's and other women 's examples of exposing those who harass us . 
+We can pave the way for future women interested in STEM and other jobs . 
+Our future is bleak if women have no say or control in STEM fields , so all you women , especially first years who are considering STEM fields , do n't give up . 
+<PERSON>Meredith Berger</PERSON> is an Opinion Columnist for The Cavalier Daily . 
+She can be reached at m.berger@cavalierdaily.com 

@@ -1,0 +1,27 @@
+<PERSON>Zoe Toone</PERSON> | The Cavalier Daily Two weeks after <ORGANIZATION>Rolling Stone</ORGANIZATION> published " A Rape on Campus , " faculty members of the <ORGANIZATION>College of Arts & Sciences</ORGANIZATION> met to discuss the article and propose possible actions to combat sexual violence at <ORGANIZATION>the University</ORGANIZATION> . 
+Members of the <ORGANIZATION>Steering Committee</ORGANIZATION> , which develops curriculum and plans for the future of the <ORGANIZATION>University</ORGANIZATION> , attended the meeting to take notes and bring forth motions at their next meeting before <ORGANIZATION>Winter Break</ORGANIZATION> . 
+University President <PERSON>Teresa Sullivan</PERSON> opened with a discussion of student safety and proposed changes to <ORGANIZATION>University</ORGANIZATION> policies . 
+She spoke broadly of the need for a long-term cultural change that currently views sexual assault casually , and suggested having more classes on <DATE>Fridays</DATE> , acknowledging that there is a different lifestyle from <DATE>Thursday</DATE> to <DATE>Saturday</DATE> <TIME>night</TIME> . 
+Sullivan pointed out there are many colloquia and seminars held by departments on <DATE>Fridays</DATE> , but she said younger students who have not yet declared a major often do not know about these events . 
+She also said she is currently in discussion with fraternal organizations about the nature of their relationship with the <ORGANIZATION>University</ORGANIZATION> . 
+<PERSON>Sullivan</PERSON> also commended the faculty for supporting their students during this stressful semester . 
+The relationships between faculty members and students are " the most important testimony of what is right at the <ORGANIZATION>University of Virginia</ORGANIZATION> , " <PERSON>Sullivan</PERSON> said , calling professors " a very important bridge to our students . " 
+After <PERSON>Sullivan</PERSON> 's speech , a town-hall meeting began . 
+Professors took to the floor to ask questions and make suggestions to <ORGANIZATION>University</ORGANIZATION> policy . 
+Multiple professors contributed to a motion which proposed extending the suspension of Greek life until <DATE>August 2015</DATE> , excluding <ORGANIZATION>National Pan-Hellenic Council</ORGANIZATION> organizations , as well as service fraternities and sororities . 
+Music Prof. <PERSON>Karl Miller</PERSON> said the suspension will give the <ORGANIZATION>University</ORGANIZATION> more time to decide what actions to take regarding fraternal organizations . 
+The legal difficulties of monitoring fraternal organizations were also acknowledged during the meeting . 
+Because fraternity houses are considered private homes , police can not enter them without probable cause or a search warrant . 
+In addition , six fraternities are under the <ORGANIZATION>University Police</ORGANIZATION> 's jurisdiction , while the other fraternities are under the <ORGANIZATION>Charlottesville Police</ORGANIZATION> 's jurisdiction . 
+However , <ORGANIZATION>the University</ORGANIZATION> is currently developing a joint patrol section . 
+A letter from the <ORGANIZATION>Council of Chairs and Directors</ORGANIZATION> had many suggestions for reducing sexual violence . 
+One suggestion , which was supported by many other professors , is designing a residential college program at <ORGANIZATION>the University</ORGANIZATION> . 
+Residential colleges would allow for a mentoring between students and professors , and would create alternative , safe spaces for student residence and socialization . 
+While developing residential colleges would be expensive , many professors said it would create a safer environment and culture for <ORGANIZATION>University</ORGANIZATION> students . 
+Many faculty members questioned the relationship between the concept of honor and sexual assault . 
+Though some suggested expanding the honor code to include sexual assault , others argued that it could n't be done . 
+Federal law prohibits student adjudication of sexual violence cases , and sexual assault cases and honor offenses are decided on different standards : sexual assault cases adjudicate on a preponderance of evidence standard , while honor cases use the " beyond a reasonable doubt " standard . 
+Professors were encouraged to adapt their curricula in regards to both sexual violence and honor in hopes that increased dialogue about gender-based sexual violence will lead to a cultural change at <ORGANIZATION>the University</ORGANIZATION> . 
+In addition , <ORGANIZATION>the University Women 's Center</ORGANIZATION> is currently developing sexual assault training that will be rolled out in the <DATE>spring</DATE> . 
+This training will be mandatory and renewed annually through Netbadge , keeping those who have n't completed the training from accessing the <ORGANIZATION>University</ORGANIZATION> network . 
+These programs will supplement the training currently held during orientation for first-year students . 

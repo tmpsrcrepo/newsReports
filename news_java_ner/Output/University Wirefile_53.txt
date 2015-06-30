@@ -1,0 +1,41 @@
+It 's one of the many joys of living in a small town -- word travels fast . 
+Years ago , most news likely was passed by word-of-mouth . 
+Now , it 's only a click away . 
+But while few can argue that the media -- both print and electronic -- have made for a more informed public , it sometimes oversteps its bounds and provides more harmful gossip than valuable information . 
+<LOCATION>Charlottesville</LOCATION> , the quintessential small town , is no exception . 
+Last <DATE>Tuesday</DATE> C-VILLE , a local weekly newspaper , published a list of 49 convicted violent sex offenders living in the <LOCATION>Charlottesville</LOCATION> area . 
+The list came from the <ORGANIZATION>Virginia State Police</ORGANIZATION> 's searchable database of residents who have been convicted of a sex offense . 
+The <ORGANIZATION>Virginia State Police</ORGANIZATION> created the Web site as a means of enforcing <PERSON>Megan</PERSON> 's Law , a statute named after 7-year-old <PERSON>Megan Kanka</PERSON> , who was raped and murdered by her neighbor , a twice-convicted sex offender . 
+It requires that all states create a registry of convicted sex offenders that can be accessed by the public . 
+Its purpose is to keep citizens informed about who is living in their community . 
+<LOCATION>Virginia</LOCATION> is one of only 10 states to provide such information online . 
+Previously , <LOCATION>Virginia</LOCATION> residents could request the list by mail , for a fee of <MONEY>$ 15</MONEY> . 
+Before that , only schools , day-care centers and youth groups had access to the information . 
+Now , anyone with access to the Internet can type in the Web address ( www.vsp.state.va.us ) and search by zip code , county or city . 
+C-VILLE printed the list accompanied by an article about the Web site , and the debate surrounding its establishment . 
+In it , the <ORGANIZATION>American Civil Liberties Union</ORGANIZATION> ( <ORGANIZATION>ACLU</ORGANIZATION> ) , among others , criticized the law and accompanying Web site . 
+But no one provided a more convincing argument against publicizing the information than the C-VILLE article itself . 
+Apparently , the list available in both the article and the Web site has numerous errors , according to an article in <DATE>this week</DATE> 's issue of the paper . 
+Two of the addresses identified as the residences of sex offenders -- one on <LOCATION>Amherst</LOCATION> Street and one on <ORGANIZATION>Greentree</ORGANIZATION> Park -- are incorrect . 
+At least two more errors have been discovered in the state listing , one in <LOCATION>Fauquier County</LOCATION> and one in <LOCATION>Reston</LOCATION> . 
+Obviously , the list 's contents are not entirely reliable . 
+And , as a result , two <LOCATION>Charlottesville</LOCATION> residents may incorrectly be labeled sex offenders . 
+It is appalling that , in dealing with such a sensitive and controversial topic , the C-VILLE staff was not more careful about fact-checking , or even providing all the appropriate information . 
+The Web site , at least , warns that information may be outdated , since it is the responsibility of the offender to notify the police department of any change of address . 
+The article held no such disclaimer . 
+One can only hope that as many people read the news story inside the paper on the errors as read the flashy cover story sensationally entitled " Who are the people in your neighborhood ? " 
+and the list ominously labeled " The <LOCATION>Charlottesville</LOCATION> 49 . " 
+But the registry 's dependability is not all we should question . 
+The <ORGANIZATION>ACLU</ORGANIZATION> is right in asserting that the principle behind it , that a community has a right to know who lives in the area , is unfair and violates a fundamental right to privacy . 
+All 49 of the offenders on the list are ex-convicts who have served time for their crimes . 
+The date of last conviction ranges from last year to 25 years ago , in <DATE>1974</DATE> . 
+It seems slightly presumptuous to assume that someone who committed a crime more than <DATE>20 years ago</DATE> , and has stayed out of trouble since , poses a serious threat to the community . 
+Furthermore , the need for publication of the list casts suspicion on <LOCATION>Virginia</LOCATION> 's own justice system . 
+The purpose of a prison sentence is to keep dangerous criminals off the streets , and to rehabilitate them in the process , so that when they are released , they no longer are dangerous . 
+If <LOCATION>Virginia</LOCATION> 's " rehabilitated " sex offenders are so threatening that their names must be made public , one wonders about the quality of the system . 
+After all , a successful prison system would release criminals only when it was sure they would not strike again . 
+In the case of the C-VILLE , the editors seemed more concerned with proclaiming their own virtue for printing the list than ensuring that it was correct . 
+In the original story , an editor 's note defended the decision , asserting it is " entirely appropriate to use this information to make an informed choice about where to live . " 
+At least they 're right about one thing . 
+Perhaps <LOCATION>Virginia</LOCATION> residents should think twice about living in a state that has so little faith in its own criminal justice system and expects its residents to shoulder the responsibility of their own protection . 
+( C ) <DATE>1999</DATE> Cavalier Daily via U-WIRE 
