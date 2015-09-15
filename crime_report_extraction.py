@@ -164,19 +164,6 @@ def geocoder(col_address,col_regions):
 #==============================================================================
 # Store results to pandas dataframe
 #==============================================================================
-def createDF(file_text):
-    output = info_lookup(file_text)
-    if output:
-        col_regions,col_infotext,col_date,col_time,col_address= output
-        col_lat,col_long,col_addr_correct = geocoder(col_address,col_regions)
-        if len(col_lat) > 0 & len(col_long) >0 & len(col_addr_correct) >0:
-            #sexual assaults data frame (sa_df)
-            sa_df = pd.DataFrame({'Date': col_date,'Time':col_time,'Region':col_regions,
-                               'Text':col_infotext,'Address':col_address,
-                               'Lat':col_lat, 'Long':col_long,'Corrected_Address':col_addr_correct})
-            return sa_df
-    else:
-        return pd.DataFrame()
 
 def createDF1(file_text,index):
     col_regions,col_infotext,col_date,col_time,col_address= info_lookup(file_text)
