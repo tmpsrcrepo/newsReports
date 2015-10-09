@@ -38,8 +38,6 @@ def extract_Info(index,loc):
         addressList = [str(addr) for addr in soup.findAll('address') if addr]
         #sub:
         addressList = (re.sub('</*[a-z]*/*>',' ',address) for address in addressList)
-#        for link in soup.findAll('a',attrs={'class':'page-option available-number'}):
-#            print link['href']
         raw_txt = nltk.clean_html(html)
         tokenList = tokenizer.tokenize(raw_txt)
     time.sleep(2)
@@ -75,8 +73,8 @@ def Yelp_scraper_MP(location,indices):
     df.to_csv(a+'_yelp_'+str(num_tasks)+'_addresses.csv',',')
     return df
 
-#locationList = ['Charlottesville,VA','New York,NY','San Francisco,CA','Los Angeles,CA']
-#Yelp_scraper()
+locationList = ['Charlottesville,VA','New York,NY','San Francisco,CA','Los Angeles,CA']
+Yelp_scraper()
 
 s_time = time.time()
 df = pd.DataFrame.from_csv('_yelp_data_set.csv')
@@ -88,16 +86,6 @@ def cleanAddress(addr):
     if len(addr1)>0 and (addr1[-1] == 'Los' or addr1[-1] =='San'):
         addr1 = addr1[:-1]
     return addr1
-
-#addr1 = [cleanAddress(a) for a in row1['address'].split('\n')]
-#addr1 = [a for a in addr1 if len(a)>0]
-
-#tokens= tokenizer.tokenize(row1['raw_txt'])
-#print addr1
-#print tokens
-#print len(addr1),len(tokens)
-
-#print string.punctuation
 
 
 def featureRegex():
@@ -119,19 +107,6 @@ dict_Unigrams = {}
 dict_Bigrams = {}
 dict_Bigrams1 = {}
 Count_Bigrams = {}
-
-
-class Unigram(object):
-    def __init__(self,x):
-        self.val = x
-        self.label = -2
-
-
-class Bigram(object):
-    def __init__(self,x):
-        self.val = x
-        self.features = []
-        self.label = -1
 
 
 def featureExtract(token):
@@ -165,13 +140,9 @@ def addressBigrams(addr):
 def bigramCreation(row):
     addr = [cleanAddress(a) for a in row['address'].split('\n')]
     addr = [a for a in addr if len(a)>0]
-    #addr_ = [a_ for a in addr for a_ in a]
     
     addr_label = addressBigrams(addr)
     
-    #head = map(lambda x:x[0],addr)
-    #mid = map(lambda x:x[1:-1],addr)
-    #end = map(lambda x:x[-1],addr)
     
     tokens= tokenizer.tokenize(row['raw_txt'])
     # add first letter to the token list
@@ -220,9 +191,6 @@ def createDicts(df):
     Y = np.array(labels.values())
     return dict_Bigrams1,X,Y
 
-#dict_Bigrams1,trainX,trainY = createDicts(train_df)
-#print trainX.shape,trainY.shape
-#dict_Bigrams2,testX,testY = createDicts(test_df)
 
 
 dict_Bigrams1 = {}
@@ -299,22 +267,3 @@ for test in test_result:
 
 
 print time.time() - s_time
-
-
-
-
-#==============================================================================
-# Using Hidden Markov Model to extract addresses from news articles (web)
-# (can try CRF as well)
-# reference from http://pe.usps.gov/cpim/ftp/pubs/Pub28/pub28.pdf
-# supervised learning could also work (need to be trained on labeled data)
-#==============================================================================
-
-
-
-
-
-
-#==============================================================================
-# Standardize 
-#==============================================================================
