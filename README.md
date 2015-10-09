@@ -7,7 +7,7 @@ Preprocessing steps:
   3. Designed an algorithm to extract street coordinates from news contents on GDelt data sets:
           use a rule-based algorithm + regular expression to find the address -> concatenate with city,state,country name provided by GDelt -> get geocoded. 
 
-  4. Use machine learning algorithms to look for addresses -> use GBM on bigrams of scraped web contents
+  4. Use machine learning algorithms to look for addresses -> use GBM on bigrams of scraped web contents (address_extraction_gbm.py)
 
 
 
