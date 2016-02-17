@@ -18,6 +18,29 @@ import glob
 from sklearn.cross_validation import train_test_split
 from statsmodels.tools import categorical
 import collections
+from sklearn.svm import SVC
+from sklearn.pipeline import Pipeline
+from sklearn.pipeline import _name_estimators
+from sklearn.ensemble import VotingClassifier
+from ensemble import *
+
+class ColumnSelector(object):
+    """
+        A feature selector for scikit-learn's Pipeline class that returns
+        specified columns from a numpy array.
+        
+        """
+    
+    def __init__(self, cols):
+        self.cols = cols
+    
+    def transform(self, X, y=None):
+        return X[:, self.cols]
+    
+    def fit(self, X, y=None):
+        return self
+
+
 
 tokenizer = RegexpTokenizer('\w+|\$[\d\.]+|\S+')
 
@@ -92,6 +115,8 @@ def addressBigrams1(addr,addr_label):
         addr_label[' '.join(addr[-2:])] = 2
 
 
+mapping = {'O':0,'ORGANIZATION':1,'LOCATION':2,'PERSON':3,'TIME':4,'DATE':5,'MONEY':6,'PERCENT':7}
+
 def read_taggedFiles(path):
     tagged = path
     lis = (readF(tagged))
@@ -101,18 +126,28 @@ def read_taggedFiles(path):
     #print textlist
     
     #entities = categorical(entities,drop=True).argmax(1)
-    entities = [[token.split('/')[-1]*(1+len(tokenizer.tokenize(''.join(token.split('/')[:-1])))) for token in text.split()] for text in list(readF(tagged))]
+    entities = [[mapping[token.split('/')[-1]]*(1+len(tokenizer.tokenize(''.join(token.split('/')[:-1])))) for token in text.split()] for text in list(readF(tagged))]
     
     
-    entities = [categorical(np.array(t),drop=True).argmax(1) for t in entities]
     return textlist,entities
 
 textlist,entities = read_taggedFiles('WP_output2/*.txt')
 
 
+def getWordDistance(tokens,keywords):
+    indices = [i for i,w in enumerate(tokens) if w in keywords]
+    if indices:
+        for i,token in enumerate(tokens[:-1]):
+            out = [abs(i-j) for j in indices]
+            yield min(out)
 
 
-
+def getDistance(tokens,entities,index):
+    indices = [i for i,w in enumerate(tokens) if entitites[i]==index]
+    if indices:
+        for i,token in enumerate(tokens[:-1]):
+            out = [abs(i-j) for j in indices]
+            yield min(out)
 
 def FeatureToken(index,tokens,x,y,addressDict):
     bigrams = []
@@ -134,11 +169,13 @@ def FeatureToken(index,tokens,x,y,addressDict):
             y.append(3)
         
         if bigram_ not in dict_Bigrams1:
-            #dict_Bigrams1[bigram_]=np.array(featureExtract(bigram[0])+[entities[index][i]]+featureExtract(bigram[1])+[entities[index][i+1]])
-            dict_Bigrams1[bigram_]=np.array(featureExtract(bigram[0])+featureExtract(bigram[1]))
+            dict_Bigrams1[bigram_]=np.array(featureExtract(bigram[0])+featureExtract(bigram[1])+[entities[index][i]]+[entities[index][i+1]])
         x.append(dict_Bigrams1[bigram_])
         bigrams.append(bigram_)
     return bigrams,count_bigram
+
+
+
 
 def addressLabelDict(path):
     label = pd.read_csv(path)
@@ -161,12 +198,20 @@ def createBigramList(lis):
     
     tmpset = set()
     outX = []
+    word_dist_list = []
+    time_dist_list = []
     Y = []
     addr_label = addressLabelDict('WP_address.csv')
     address_dict = {}
     
     for i,l in enumerate(lis):
         tokens = l.split()
+        word_dist = (list(getWordDistance(tokens,['assault','sexual','sex','rape'])))
+        #time_dist = (list(getDistance(tokens,entities,4)))
+        if not word_dist:
+            word_dist_list+=(len(tokens)-1)*[len(tokens)]
+        else:
+            word_dist_list+=word_dist
         #tokens = tokenizer.tokenize(l)
         #bigrams.append(FeatureToken_noLabel(tokens,x)
         if i in addr_label:
@@ -177,30 +222,59 @@ def createBigramList(lis):
         #print count_unigram
 
         count_bigrams.append(count_bigram)
-    
-    return bigrams,count_bigrams,outX,Y
 
 
-bigramList,count_bigrams,outX,Y = createBigramList(textlist)
+
+    return bigrams,count_bigrams,outX,word_dist_list,Y
+
+
+bigramList,count_bigrams,outX,word_dist_list,Y = createBigramList(textlist)
 
 
 def RF_model(trainX,trainY):
     est = RandomForestClassifier(n_estimators=1000, max_depth=10,n_jobs=2)
+    #est = SVC(kernel='rbf', probability=True)
+    
+    row_count =trainX.shape[0]
+    col_count =trainX.shape[1]
+    print len(word_dist_list)
+
+
+    trainX = np.hstack((trainX,np.array(word_dist_list).reshape(row_count,1)))
+    print trainX.shape,trainY.shape
+    #trainX_ = trainX[:,xrange(col_count-2)]
+    
     #75% train set and 25% trainset
     x_train, x_test, y_train, y_test = train_test_split(trainX, trainY, test_size=0.25, random_state=20)
-    print trainX.shape,trainY.shape
-    est.fit(x_train,y_train)
-    print est.feature_importances_
+    
+    #x_train = x_train[:,xrange(col_count-2)]
+    
+    #print est.feature_importances_
+
+
     target_names = ['Start','Mid','End','Others']
-    #target_names = ['start','mid','others']
-    y_pred = est.predict(x_test)
+    #combo = [(trainX,est),(trainX_,est),(trainX_,svmCLF)]
+        #for pair in combo:
+        #scores = cross_validation.cross_val_score(pair[1], pair[0], trainY, cv=5, scoring='accuracy')
+        #print("Accuracy: %0.2f (+/- %0.2f) [%s]" % (scores.mean(), scores.std(), label))
+    
+    pipe1 = Pipeline([('sel',ColumnSelector(range(col_count))),('clf',est)])
+    pipe2 = Pipeline([('sel',ColumnSelector(range(col_count-2))),('clf',est)])
+    pipe3 = Pipeline([('sel',ColumnSelector(range(col_count-4))),('clf',est)])
+    
+    #est.fit(x_train,y_train)
+    eclf = EnsembleClassifier([pipe1, pipe2],weights=[5,2])
+    eclf.fit(x_train,y_train)
+    y_pred = eclf.predict(x_test)
     print classification_report(y_test, y_pred, target_names=target_names)
     
     #fit the full model
-    est.fit(trainX,trainY)
+    #est.fit(trainX,trainY)
     #scores = cross_validation.cross_val_score(est, trainX, trainY, cv=10)
     #print scores.mean(),scores.std()*2
     return est
+
+
 #print np.array(X).shape
 est = RF_model(np.array(outX),np.array(Y))
 
@@ -239,14 +313,12 @@ def TokenPredsequence(pred,bigramList):
             last = bigrams[1]
 
 
-#0,1,2 or 0,1 or 0,2 or 0,3 or 1
-
 
     return result
 
 #then check if street abbr is contained in the retrieved addresses
-out = est.predict(outX)
-out_result = TokenPredsequence(out,bigramList)
+#out = est.predict(outX)
+#out_result = TokenPredsequence(out,bigramList)
 
-print set(out_result)
+#print set(out_result)
 
