@@ -8,6 +8,7 @@ Preprocessing steps:
           use a rule-based algorithm + regular expression to find the address -> concatenate with city,state,country name provided by GDelt -> get geocoded. 
 
 Data: WashingtonPosts (2015-2016, ~1000 docs)
+Addresses (file: addresses): 'WP_address.csv',  'WP_address_window_1.csv' (w/ context window size =1)
 
 Modeling:
   1. Address labeling -> 'WP_adddress.csv'
